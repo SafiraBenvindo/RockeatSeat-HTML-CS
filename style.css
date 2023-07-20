@@ -1,0 +1,43 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+h1{
+  font-family: 'Inter', sans-serif;
+  font-size: 49px;
+  line-height: 56px;
+  color: #000000;
+  margin-bottom: 32px;
+  
+}
+#hero{
+  width: auto;
+  margin:0 auto 72px;
+}
+#hero img{
+  margin-bottom: 72px;
+}
+h1 span{
+  color: #ff9900;
+}
+span, a{
+  color: #ff9900;
+}
+p{
+  color: #7d7987;
+  font-size: 16px;
+  line-height: 28px;
+}
+#line{
+  width: 568px;
+  height: 0;
+  border:1px #eceff2 solid;
+  margin:0 auto 8px;
+
+}
+#balls{
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
+
